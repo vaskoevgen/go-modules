@@ -1,4 +1,4 @@
-package first-module
+package go-modules
 
 import (
 	"fmt"
