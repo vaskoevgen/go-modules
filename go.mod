@@ -1,3 +1,3 @@
-module github.com/vaskoengen/go-modules
+module github.com/vaskoevgen/go-modules
 
-go 1.16
+go 1.17
