@@ -1,3 +1,3 @@
-module github.com/vaskoengen/secondmodule
+module github.com/vaskoengen/go-modules/secondmodule
 
 go 1.17
